@@ -65,7 +65,7 @@ Repository structure
         └── articles/medium_article.md
 Project 1: CRISP-DM — Telco Customer Churn
 Directory: [`projects/crisp_dm/`](projects/crisp_dm/)
-
+https://youtu.be/rFc17rCt0UE
 Notebook: [`crisp_dm_telco_churn.ipynb`](projects/crisp_dm/notebooks/crisp_dm_telco_churn.ipynb)
 
 Dataset: Kaggle IBM Telco Customer Churn
@@ -79,7 +79,7 @@ CRISP-DM phases demonstrated
 The report also discusses class imbalance, probability thresholds, false-positive costs, and why a model score should support human retention decisions rather than automatically penalize customers.
 Project 2: SEMMA — Student Performance
 Directory: [`projects/semma/`](projects/semma/)
-
+https://youtu.be/2GyCpchXIuM
 Notebook: [`semma_student_performance.ipynb`](projects/semma/notebooks/semma_student_performance.ipynb)
 
 Dataset: Kaggle Student Performance Data Set, with additional provenance from the UCI Student Performance dataset
@@ -94,7 +94,7 @@ An important modeling decision is documented explicitly: G1 and G2 are previous 
 The optional SAS-style mapping is in [`semma_mapping.sas`](projects/semma/sas/semma_mapping.sas). It maps the Python workflow to Sample, Explore, Modify, Model, and Assess tasks; it is not a claim that SAS Enterprise Miner was executed in this environment.
 Project 3: KDD — Online Retail Association Rules
 Directory: [`projects/kdd/`](projects/kdd/)
-
+https://youtu.be/EyltWd_CJog
 Notebook: [`kdd_online_retail.ipynb`](projects/kdd/notebooks/kdd_online_retail.ipynb)
 
 Dataset: Kaggle E-Commerce Data, with additional provenance from UCI Online Retail
